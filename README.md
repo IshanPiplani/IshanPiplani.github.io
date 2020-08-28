@@ -1,4 +1,4 @@
-<html>
+<DOCTYPE! html>
 <html lang="en">
 
 <head>
@@ -37,9 +37,9 @@
 
       <div class="collapse navbar-collapse" id="navbar-collapse">
         <ul class="nav navbar-nav ">
-          <li><a href="./index.html" title="">Home</a></li>
-          <li><a href="./works.html" title="">Works</a></li>
-          <li><a href="./about.html" title="">About me</a></li>
+          <li><a href="https://raw.githubusercontent.com/ankushsinghgandhi/ankushsinghgandhi.github.io/master/index.html" title="">Home</a></li>
+          <li><a href="https://raw.githubusercontent.com/ankushsinghgandhi/ankushsinghgandhi.github.io/master/works.html" title="">Works</a></li>
+          <li><a href="https://raw.githubusercontent.com/ankushsinghgandhi/ankushsinghgandhi.github.io/master/about.html" title="">About me</a></li>
         </ul>
 
 
