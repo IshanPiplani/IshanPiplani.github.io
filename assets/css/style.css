@@ -309,7 +309,7 @@ section {
   top: 140px;
   bottom: 100%;
   opacity: 0;
-  transition: ease-in-out 0.4s;
+  transition: ease-in-out 0s;
   z-index: 2;
 }
 
