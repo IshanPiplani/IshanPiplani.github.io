@@ -7,3 +7,5 @@ Still working on Portfolio and Events Section.
 <img src="assets/img/Screanshots/5.png">
 <img src="assets/img/Screanshots/6.png">
 <img src="assets/img/Screanshots/7.png">
+<img src="assets/img/Screanshots/8.png">
+<img src="assets/img/Screanshots/9.png">
