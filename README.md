@@ -1,7 +1,7 @@
 [Ankush Singh Gandhi](https://ankushsinghgandhi.github.io)
 ================================
-This is My Portfolio hosted by GitHub pages.<br>
-Still working on Portfolio and Events Section.
+- This is My Portfolio hosted by GitHub pages.
+
 <img src="assets/img/Screanshots/1.png">
 <img src="assets/img/Screanshots/2.png">
 <img src="assets/img/Screanshots/3.png">
