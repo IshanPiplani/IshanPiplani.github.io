@@ -1,6 +1,6 @@
 [Ankush Singh Gandhi](https://ankushsinghgandhi.github.io)
 ================================
-- This is My Portfolio hosted by GitHub pages.
+- This is My Portfolio Website hosted on GitHub pages.
 
 <img src="assets/img/Screanshots/1.png">
 <img src="assets/img/Screanshots/2.png">
