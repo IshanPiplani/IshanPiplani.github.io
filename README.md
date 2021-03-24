@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Logo" src="https://github.com/AnkushSinghGandhi/ankushsinghgandhi.github.io/blob/dev/assets/img/logo.jpg" width="100" />
+  <img alt="Logo" src="assets/img/logo.jpg" width="100" />
 </div>
 <h1 align="center">
   ASG Portfolio Website Version 2.0
