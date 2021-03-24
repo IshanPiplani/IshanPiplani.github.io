@@ -22,8 +22,8 @@ Do these before using this project -
 <img src="assets/img/Screanshots/12.png">
 4. Delete Google site verification file "google54e55fc6f41da759.html"
 <img src="assets/img/Screanshots/13.png">
-5. Delete CNAME file
-
+5. Delete CNAME file <br>
+<img src="assets/img/Screanshots/14.png">
 6. Edit & Enjoy
 
 ### SCREENSHOTS
