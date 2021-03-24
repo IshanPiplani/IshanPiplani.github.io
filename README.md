@@ -15,13 +15,13 @@ Yes, you can fork this repo. Please give proper credit To Me (<a href="https://g
 Do these before using this project -
 
 - Remove Google Analytics section from index.html
-
+<img src="assets/img/Screanshots/10.png">
 - Remove Google Feedburner in contact me section from index.html
-
+<img src="assets/img/Screanshots/11.png">
 - Remove Schedule Meet Section from index.html
-
+<img src="assets/img/Screanshots/12.png">
 - Delete Google site verification file "google54e55fc6f41da759.html"
-
+<img src="assets/img/Screanshots/13.png">
 - Delete CNAME file
 
 - Edit & Enjoy
