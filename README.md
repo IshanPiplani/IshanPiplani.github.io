@@ -1,6 +1,31 @@
-[Ankush Singh Gandhi](https://ankushsinghgandhi.github.io)
-================================
-- This is My Portfolio Website hosted on GitHub pages.
+<div align="center">
+  <img alt="Logo" src="https://github.com/AnkushSinghGandhi/ankushsinghgandhi.github.io/blob/dev/assets/img/logo.jpg" width="100" />
+</div>
+<h1 align="center">
+  Portfolio Website Version 2.0
+</h1>
+<p align="center">
+  The second iteration of <a href="https://ankushsinghgandhi.gihub.io/" target="_blank">ankushsinghgandhi.github.io</a> built on top of Personal Template from <a href="https://www.bootstrapmade.com/" target="_blank">Bootstrapmade.com </a> and hosted on <a href="https://pages.github.com/" target="_blank">Github Pages</a>
+</p>
+
+### TL;DR
+
+Yes, you can fork this repo. Please give proper credit To Me for changes and modification in orignal template and to <a href="https://www.bootstrapmade.com/" target="_blank">Bootstrapmade.com </a> for this awesome template . Thanks!
+
+Do these before using this project -
+
+- Remove Google Analytics section from index.html
+
+- Remove Google Feedburner in contact me section from index.html
+
+- Remove Schedule Meet Section from index.html
+
+- Delete Google site verification file "google54e55fc6f41da759.html"
+
+- Delete CNAME file
+
+- Edit & Enjoy
+
 
 <img src="assets/img/Screanshots/1.png">
 <img src="assets/img/Screanshots/2.png">
