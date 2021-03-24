@@ -10,7 +10,7 @@
 
 ### TL;DR
 
-Yes, you can fork this repo. Please give proper credit To Me (<a href="https://github.com/ankushsinghgandhi">@ankushsinghgandhi</a>) for changes, modification and fixes in orignal template and to <a href="https://bootstrapmade.com/demo/Personal/" target="_blank">Bootstrapmade.com </a> for this awesome template . Thanks!
+Yes, you can fork this repo. Please give proper credit To Me (<a href="https://github.com/ankushsinghgandhi">@ankushsinghgandhi</a>) for changes, modification and fixes in orignal template and to <a href="https://bootstrapmade.com/demo/Personal/" target="_blank">Bootstrapmade.com </a> for "personal" template . Thanks!
 
 Do these before using this project -
 
