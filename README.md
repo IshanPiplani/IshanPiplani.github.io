@@ -2,7 +2,7 @@
   <img alt="Logo" src="https://github.com/AnkushSinghGandhi/ankushsinghgandhi.github.io/blob/dev/assets/img/logo.jpg" width="100" />
 </div>
 <h1 align="center">
-  Portfolio Website Version 2.0
+  ASG Portfolio Website Version 2.0
 </h1>
 <p align="center">
   The second iteration of <a href="https://ankushsinghgandhi.gihub.io/" target="_blank">ankushsinghgandhi.github.io</a> built on top of Personal Template from <a href="https://www.bootstrapmade.com/" target="_blank">Bootstrapmade.com </a> and hosted on <a href="https://pages.github.com/" target="_blank">Github Pages</a>
