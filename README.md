@@ -20,11 +20,13 @@ Do these before using this project -
 <img src="assets/img/Screanshots/11.png">
 3. Remove Schedule Meet Section from index.html
 <img src="assets/img/Screanshots/12.png">
-4. Delete Google site verification file "google54e55fc6f41da759.html"
+4. Remove/change buy me a cofee widget
+<img src="assets/img/Screanshots/15.png">
+5. Delete Google site verification file "google54e55fc6f41da759.html"
 <img src="assets/img/Screanshots/13.png">
-5. Delete CNAME file or you can add your own<br>
+6. Delete CNAME file or you can add your own<br>
 <img src="assets/img/Screanshots/14.png">
-6. Edit & Enjoy
+7. Edit & Enjoy
 
 ### SCREENSHOTS
 <img src="assets/img/Screanshots/1.png">
