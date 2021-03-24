@@ -5,12 +5,12 @@
   ASG Portfolio Website Version 2.0
 </h1>
 <p align="center">
-  The second iteration of <a href="https://ankushsinghgandhi.gihub.io/" target="_blank">ankushsinghgandhi.github.io</a> built on top of Personal Template from <a href="https://www.bootstrapmade.com/" target="_blank">Bootstrapmade.com </a> and hosted on <a href="https://pages.github.com/" target="_blank">Github Pages</a>
+  The second iteration of <a href="https://ankushsinghgandhi.gihub.io/" target="_blank">ankushsinghgandhi.github.io</a> built on top of Personal Template from <a href="https://bootstrapmade.com/demo/Personal/" target="_blank">Bootstrapmade.com </a> and hosted on <a href="https://pages.github.com/" target="_blank">Github Pages</a>
 </p>
 
 ### TL;DR
 
-Yes, you can fork this repo. Please give proper credit To Me (<a href="https://github.com/ankushsinghgandhi">@ankushsinghgandhi</a>) for changes and modification in orignal template and to <a href="https://www.bootstrapmade.com/" target="_blank">Bootstrapmade.com </a> for this awesome template . Thanks!
+Yes, you can fork this repo. Please give proper credit To Me (<a href="https://github.com/ankushsinghgandhi">@ankushsinghgandhi</a>) for changes, modification and fixes in orignal template and to <a href="https://bootstrapmade.com/demo/Personal/" target="_blank">Bootstrapmade.com </a> for this awesome template . Thanks!
 
 Do these before using this project -
 
