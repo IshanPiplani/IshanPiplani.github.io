@@ -251,16 +251,15 @@ h1, h2, h3, h4, h5, h6 {
   z-index: 9999;
   overflow-y: auto;
   background: rgba(0, 0, 0, 0.872);
-  transition: ease-in-out 0.2s;
+  transition: ease-in-out 0.4s;
   opacity: 0;
   visibility: hidden;
-  border-radius: 10px;
   padding: 10px 0;
-  border: 2px solid rgba(218, 19, 19, 0.12);
 }
 
 .mobile-nav * {
-  margin: 0;
+  margin-top: 8px;
+  margin-left: 40px;
   padding: 0;
   list-style: none;
 }
@@ -366,6 +365,7 @@ section.section-show {
 section .container {
   background: rgba(0, 0, 0, 0.356);
   padding: 30px;
+  border-radius: 5px;
 }
 
 @media (max-width: 768px) {
@@ -890,6 +890,7 @@ section .container {
   overflow: hidden;
   z-index: 1;
   background: rgba(0, 0, 0, 0.6);
+  border-radius: 6px;
 }
 
 .portfolio .portfolio-wrap::before {
