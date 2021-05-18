@@ -16,17 +16,15 @@ Do these before using this project -
 
 1. Remove Google Analytics section from index.html
 <img src="assets/img/Screanshots/10.png">
-2. Remove Google Feedburner in contact me section from index.html
-<img src="assets/img/Screanshots/11.png">
-3. Remove Schedule Meet Section from index.html
+2. Remove Schedule Meet Section from index.html
 <img src="assets/img/Screanshots/12.png">
-4. Remove/change buy me a cofee widget
+3. Remove/change buy me a cofee widget
 <img src="assets/img/Screanshots/15.png">
-5. Delete Google site verification file "google54e55fc6f41da759.html"
+4. Delete Google site verification file "google54e55fc6f41da759.html"
 <img src="assets/img/Screanshots/13.png">
-6. Delete CNAME file or you can add your own<br>
+5. Delete CNAME file or you can add your own<br>
 <img src="assets/img/Screanshots/14.png">
-7. Edit & Enjoy
+6. Edit & Enjoy
 
 ### SCREENSHOTS
 <img src="assets/img/Screanshots/1.png">
