@@ -14,17 +14,11 @@ Yes, you can fork this repo. Please give proper credit To Me (<a href="https://g
 
 Do these before using this project -
 
-1. Remove Google Analytics section from index.html
-<img src="assets/img/Screanshots/10.png">
-2. Remove Schedule Meet Section from index.html
+1. Remove Schedule Meet Section from index.html
 <img src="assets/img/Screanshots/12.png">
-3. Remove/change buy me a cofee widget
+2. Remove/change buy me a cofee widget
 <img src="assets/img/Screanshots/15.png">
-4. Delete Google site verification file "google54e55fc6f41da759.html"
-<img src="assets/img/Screanshots/13.png">
-5. Delete CNAME file or you can add your own<br>
-<img src="assets/img/Screanshots/14.png">
-6. Edit & Enjoy
+3. Edit & Enjoy
 
 ### SCREENSHOTS
 <img src="assets/img/Screanshots/1.png">
