@@ -5,7 +5,7 @@
   ASG Portfolio Website Version 2.0
 </h1>
 <p align="center">
-  The second iteration of <a href="https://ankushsinghgandhi.gihub.io/" target="_blank">ankushsinghgandhi.github.io</a> built on top of Personal Template from <a href="https://bootstrapmade.com/demo/Personal/" target="_blank">Bootstrapmade.com </a> and hosted on <a href="https://pages.github.com/" target="_blank">Github Pages</a>
+  The second iteration of my personal portfolio website built on top of Personal Template from <a href="https://bootstrapmade.com/demo/Personal/" target="_blank">Bootstrapmade.com</a>. deployed at <a href="https://ankushgandhi.com/portfolio-v2.0-old/" target="_blank">ankushgandhi.com/portfolio-v2.0-old/</a>
 </p>
 
 ### TL;DR
