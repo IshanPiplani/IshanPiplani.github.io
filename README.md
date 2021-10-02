@@ -1,9 +1,4 @@
-<div align="center">
-  <img alt="Logo" src="assets/img/logo.jpg" width="100" />
-</div>
-<h1 align="center">
-  ASG Portfolio Website Version 2.0
-</h1>
+
 <p align="center">
   The second iteration of my personal portfolio website built on top of Personal Template from <a href="https://bootstrapmade.com/demo/Personal/" target="_blank">Bootstrapmade.com</a>. deployed at <a href="https://ankushgandhi.com/portfolio-v2.0-old/" target="_blank">ankushgandhi.com/portfolio-v2.0-old/</a>
 </p>
